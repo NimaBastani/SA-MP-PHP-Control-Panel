@@ -5,8 +5,8 @@ error_reporting(E_ERROR | E_WARNING | E_PARSE | E_NOTICE);
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<title>Untitled Document</title>
-<script type="text/javascript" src="jquery-3.3.1.min.js"></script>
+<title>SA:MP Server Control Panel</title>
+<script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 <script type="text/javascript">
 	$(document).ready(function() {
 		$("#C2").hide();
