@@ -11,7 +11,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <title>Login Page</title>
 <script type="text/javascript" src="jquery-3.3.1.min.js"></script>
-<script src="SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
+<script src="https://resources.oreilly.com/examples/0636920022732/raw/master/MM_DWCS6/Chapter12_complete/SpryAssets/SpryValidationTextField.js" type="text/javascript"></script>
 <script type="text/javascript">
 
 </script>
